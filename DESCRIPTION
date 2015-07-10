@@ -4,8 +4,8 @@ Title: Stocks Charts
 Version: 9.0
 Date: 2015-07-06
 Author: DP
-Maintainer: 
-Description: 
+Maintainer: DP
+Description: stocktrader test
 License: GPL
 LazyData: yes
 Imports:
