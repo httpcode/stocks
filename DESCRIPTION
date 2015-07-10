@@ -1,14 +1,14 @@
-Package: stocks
+Package: stocktrader
 Type: Package
-Title: Stocks Web Application
+Title: Stocks Charts
 Version: 9.0
-Date: 2013-07-06
-Author: Jeroen
-Maintainer: Jeroen <jeroen.ooms@stat.ucla.edu>
-Description: An OpenCPU Application to make charts of historical stock data
-    from Yahoo Finance.
+Date: 2015-07-06
+Author: DP
+Maintainer: 
+Description: 
 License: GPL
 LazyData: yes
 Imports:
     ggplot2
+    quantmod
 Suggests: opencpu (>= 1.2)
