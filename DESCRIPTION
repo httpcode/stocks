@@ -10,7 +10,6 @@ License: GPL
 Suggests:
     ggplot2, 
     quantmod
-Suggests: opencpu (>= 1.2)
 Collate:
     'areaplot.R'
     'candlestick.R'
