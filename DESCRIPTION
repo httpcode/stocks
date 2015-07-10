@@ -9,6 +9,6 @@ Description: stocktrader test
 License: GPL
 LazyData: yes
 Imports:
-    ggplot2
+    ggplot2, 
     quantmod
 Suggests: opencpu (>= 1.2)
