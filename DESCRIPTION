@@ -1,14 +1,22 @@
 Package: stocktrader
 Type: Package
 Title: StockTrader
-Version: 9.1
+Version: 9.2
 Date: 2015-07-06
 Author: DP
 Maintainer: DP <daniel@httpcode.com>
 Description: stocktrader test
 License: GPL
-LazyData: yes
-Imports:
+Suggests:
     ggplot2, 
     quantmod
 Suggests: opencpu (>= 1.2)
+Collate:
+    'areaplot.R'
+    'candlestick.R'
+    'getcurrent.R'
+    'highlowplot.R'
+    'plotwrapper.R'
+    'smoothplot.R'
+    'yahoodata.R'
+   
